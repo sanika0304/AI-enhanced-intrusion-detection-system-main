@@ -14,6 +14,7 @@ This project presents a smart cybersecurity solution to detect and classify netw
 # Create a new conda environment
 conda create -n cyber_ids python=3.10
 
+
 # Activate the environment
 conda activate cyber_ids
 
