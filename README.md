@@ -19,7 +19,7 @@ conda create -n cyber_ids python=3.10
 conda activate cyber_ids
 
 # Clone the repository
-git clone https://github.com/sanika0304/ai-enhanced-intrusion-detection-system-main.git
+git clone https://github.com/sanika0304/AI-enhanced-intrusion-detection-system-main.git
 
 ## **Running the Application**
 
